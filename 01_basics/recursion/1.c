@@ -6,8 +6,8 @@ int initializer(void)
 
 int main()
 {
-	static int i = initializer();
-	printf(" value of i = %d", i);
-	getchar();
+	// static int i = initializer();
+	// printf(" value of i = %d", i);
+	// getchar();
 	return 0;
 }
